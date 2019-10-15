@@ -1,0 +1,12 @@
+{
+"nombre": "Toni Ferra",
+"id": 180,
+"profesor": true,
+"idCursos": [345, 123,12,90],
+"cursos": {
+    "python": "inicio en Python",
+    "javascript": "la locura de JSON",
+    "editores": ["Sublime Text", "Atom","VScode"]
+},
+"vacaciones": null
+}
